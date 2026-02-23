@@ -46,6 +46,6 @@ The daily meal size requirements follow these biological standards per meal:
 * Elephant: 10.0 + ((Age - 20) * 0.015) kg of Plant
 * Penguin: 3.0 + ((Age - 4) * 0.040) kg of Fish
 * Chimpanzee: 3.0 + ((Age - 10) * 0.0125) kg of Meat & 3.0 + ((Age - 10) * 0.0125) kg of Plant
-  
+
 ---
 *Developed by a Computer Engineering Student at Hacettepe University.*
